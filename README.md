@@ -12,4 +12,4 @@
 
 * selenium-webdriver 3.142.7
 
-* webdrivers 4.2.
+* webdrivers 4.2.0
